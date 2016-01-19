@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment1.params=code
+comment1.target=Function\ compile(java.lang.String)
+comment1.text=\n\ Compiles\ the\ given\ fragment,\ placing\ it\ in\ the\ required\ format.\n
+comment2.params=
+comment2.target=void\ cleanup()
+comment2.text=\n\ Deletes\ all\ of\ the\ Stubs\ generated\ this\ session.\n
+comment3.params=
+comment3.target=int\ getCount()
+comment3.text=\n\ Returns\ the\ current\ count\ of\ the\ compiler.\n
+numComments=4

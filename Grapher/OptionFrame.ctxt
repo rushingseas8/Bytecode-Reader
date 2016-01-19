@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=parent\ g
+comment0.target=OptionFrame(javax.swing.JFrame,\ Grapher)
+comment1.params=a
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=i
+comment2.target=void\ pushUpdate(int)
+comment3.params=
+comment3.target=void\ main()
+numComments=4

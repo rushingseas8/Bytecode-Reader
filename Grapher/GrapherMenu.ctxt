@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=GrapherMenu(GraphPanel)
+comment1.params=a
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=a
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=a
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4
