@@ -1,0 +1,43 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_05\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Users\Owner\Desktop\Computer Science\Gridworld\gridworld.jar;C:\Users\Owner\Desktop\Java\Computer Science\Gridworld\gridworld.jar;C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader
+-d
+C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\Main.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\Main.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_05
+Building tree for all the packages and classes...
+Generating C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\doc\Main.html...
+C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\Main.java:28: warning - @param argument "p:" is not a parameter name.
+Generating C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\doc\package-frame.html...
+Generating C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\doc\package-summary.html...
+Generating C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\doc\allclasses-frame.html...
+Generating C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\doc\allclasses-noframe.html...
+Generating C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\doc\index.html...
+Generating C:\Users\Owner\Desktop\School\CS DS\Other\Bytecode Reader\doc\stylesheet.css...
+1 warning
